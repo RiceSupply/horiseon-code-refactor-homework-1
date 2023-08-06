@@ -67,17 +67,6 @@ p {
     margin-left: 25px;
 }
 
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans MT', sans-serif;
-    background-color: #2589bd;
-}
-
 .search-online-social {
     margin-bottom: 20px;
     padding: 50px;
@@ -94,6 +83,17 @@ p {
 
 .search-online-social img {
     max-height: 200px;
+}
+
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans MT', sans-serif;
+    background-color: #2589bd;
 }
 
 .benefit {
