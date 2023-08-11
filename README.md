@@ -28,4 +28,4 @@ This project was initially created by Horiseon Social Solution Services, Inc and
 
 https://ricesupply.github.io/horiseon-code-refactor-homework-1/  (Link for deployment)
 
-![image](https://github.com/RiceSupply/horiseon-code-refactor-homework-1/assets/140272444/2b88d284-f978-47fd-b320-54bc79a61f20) (image of deployment)
+![image](https://github.com/RiceSupply/horiseon-code-refactor-homework-1/assets/140272444/713d294a-491b-4931-a70a-5ec4665f8970)  (image of deployment)
